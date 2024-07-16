@@ -48,22 +48,22 @@ We recommend using the following tools and environments:
 ## Contribution Guidelines
 We welcome contributions from the community! To contribute, please follow these steps:
 
-1. Fork the Repository: Click the "Fork" button at the top right of this page to create a copy of the repository on your GitHub account.
-2. Clone Your Fork: Clone the forked repository to your local machine.
-3. Create a Branch: Create a new branch for your feature or bug fix.
+1. **Fork the Repository:** Click the "Fork" button at the top right of this page to create a copy of the repository on your GitHub account.
+2. **Clone Your Fork:** Clone the forked repository to your local machine.
+3. **Create a Branch:** Create a new branch for your feature or bug fix.
 ```
 git checkout -b feature/your-feature-name
 ```
-4. Make Changes: Make your changes in the new branch.
-5. Commit Changes: Commit your changes with a descriptive message.
+4. **Make Changes:** Make your changes in the new branch.
+5. **Commit Changes:** Commit your changes with a descriptive message.
 ```
 git commit -m "Add feature XYZ"
 ```
-6. Push Changes: Push your changes to your forked repository.
+6. **Push Changes:** Push your changes to your forked repository.
 ```
 git push origin feature/your-feature-name
 ```
-7. Create a Pull Request: Go to the original repository on GitHub and create a pull request from your forked branch.
+7. **Create a Pull Request:** Go to the original repository on GitHub and create a pull request from your forked branch.
 
 ### License
 The OSAKI Project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
