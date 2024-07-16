@@ -71,5 +71,5 @@ The OSAKI Project is licensed under the [MIT License](https://opensource.org/lic
 ## Contact
 For questions or support, please reach out to us:
 
-Discord: [Join our Discord server](https://discord.gg/27zrqrPj)
-Email: [warner@standmotors.com](warner@standmotors.com)
+- Discord: [Join our Discord server](https://discord.gg/27zrqrPj)
+- Email: [warner@standmotors.com](warner@standmotors.com)
