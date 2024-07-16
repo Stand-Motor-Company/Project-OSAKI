@@ -40,10 +40,10 @@ Instructions for building and running the project will vary based on the compone
 ## Development Environment
 We recommend using the following tools and environments:
 
-- IDE: Visual Studio Code with Docker devcontainers.
-- Simulation Tools: MATLAB/Simulink, Gazebo, QEMU.
-- Version Control: GitHub for repository management.
-- CI/CD: Jenkins for continuous integration and deployment.
+- **IDE:** Visual Studio Code with Docker devcontainers.
+- **Simulation Tools:** MATLAB/Simulink, Gazebo, QEMU.
+- **Version Control:** GitHub for repository management.
+- **CI/CD:** Jenkins for continuous integration and deployment.
 
 ## Contribution Guidelines
 We welcome contributions from the community! To contribute, please follow these steps:
