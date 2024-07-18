@@ -66,7 +66,7 @@ git push origin feature/your-feature-name
 7. **Create a Pull Request:** Go to the original repository on GitHub and create a pull request from your forked branch.
 
 ### License
-The OSAKI Project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+The OSAKI Project license is to-be-determined. Safety is of the utmost concern, and great care is being taken to ensure that the selected license represents our unwavering adherance to the safety of the occupants, and places protections around ALL of the safety related software and hardware.
 
 ## Contact
 For questions or support, please reach out to us:
